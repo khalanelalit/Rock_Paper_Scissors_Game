@@ -27,7 +27,7 @@ img{
 .choices{
     display: flex;
     margin-top: 50px;
-    margin-left: 600px;
+    margin-left: 700px;
     align-items: center;
     gap: 3rem;
 }
